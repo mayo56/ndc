@@ -1,0 +1,12 @@
+﻿The Unfinished Labyrinth
+
+
+
+
+Echappez-vous de ce labyrinthe en résolvant des énigmes !
+
+
+Comment jouer : 
+Pour avancer, appuyez sur les flèches du haut, bas, droite et gauche.
+Appuyez sur la touche TAB pour mettre le jeu en pause.
+Faites un clique gauche sur les objets afin de les récupérer.
